@@ -1,0 +1,1 @@
+* Add to the end of the line:- Press `$` to go to the end of a line and then press `a` to enter insert mode after the end of the line. So `$``a` will put the cursor at the end of the line in insert mode.
